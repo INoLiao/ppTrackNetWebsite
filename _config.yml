@@ -2,6 +2,6 @@ title: Parallel Programming
 description: TrackNet Optimization
 
 # For GitHub
-baseurl: "/ppTrackNet"
+baseurl: "/ppTrackNetWebsite"
 # For local development
-# baseurl: "/ppTrackNet/"
+# baseurl: "/ppTrackNetWebsite/"
