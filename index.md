@@ -4,7 +4,7 @@ title: TrackNet Optimization by Parallel Programming
 ---
 
 # TrackNet Optimization by Parallel Programming
-#### <a href="https://inoliao.github.io/portfolio/" target="_blank">I-No Liao</a>
+#### <a href="https://inoliao.info" target="_blank">I-No Liao</a>
 
 ## Abstract
 <p align="justify">
